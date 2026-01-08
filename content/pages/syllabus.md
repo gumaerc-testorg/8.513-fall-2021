@@ -11,7 +11,7 @@ Lectures: 2 sessions / week, 1.5 hours / session
 
 ## Prerequisites
 
-{{% resource_link "c6e3a79e-df23-44c6-93d3-c1edd71eec7a" "*8.033 Relativity*" %}}, {{% resource_link "6416ab76-ea5a-4a08-b4fa-183cfc927377" "*8.05 Quantum Physics II*" %}}, {{% resource_link "e201642e-574f-4abb-8484-5cf64afed163" "*8.08 Statistical Physics II*" %}}, and {{% resource_link "9a883c0f-0499-4492-a92a-eba174ed325e" "*8.231 Physics of Solids I*" %}}
+[*8.033 Relativity*](https://ocw.mit.edu/courses/8-033-relativity-fall-2006/), [*8.05 Quantum Physics II*](https://ocw.mit.edu/courses/8-05-quantum-physics-ii-fall-2013/), [*8.08 Statistical Physics II*](https://ocw.mit.edu/courses/8-08-statistical-physics-ii-spring-2005/), and [*8.231 Physics of Solids I*](https://ocw.mit.edu/courses/8-231-physics-of-solids-i-fall-2006/)
 
 ## Description
 
